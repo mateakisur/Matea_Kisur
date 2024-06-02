@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color:darkviolet;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+h1, h2 {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:darkmagenta;	
+}
+
+span {color:#7767BF;}
+.pozadina{
+	background-image: url("matcha green laptop wallpaper.jpg");
+}
+.drugapozadina {
+	background-color: aquamarine;
+}
+a{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #CAA9D8;
+}
+a:hover{
+	background-color: wheat;
+}
